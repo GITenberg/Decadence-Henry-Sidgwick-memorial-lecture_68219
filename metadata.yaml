@@ -1,0 +1,30 @@
+_repo: Decadence-Henry-Sidgwick-memorial-lecture_68219
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balfour, Arthur James
+    aliases:
+    - Balfour, A. J. (Arthur James)
+    - Balfour, Arthur James Balfour, Earl of
+    birthdate: 1848
+    deathdate: 1930
+    gutenberg_agent_id: '49596'
+    url: http://www.gutenberg.org/2009/agents/49596
+description: ''
+gutenberg_issued: '2022-06-01'
+identifiers:
+  gutenberg: '68219'
+language: en
+pgterms:marc905: 20220422191743balfour
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: Thomas Frost and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :The University Press,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Decadence: Henry Sidgwick memorial lecture'
+url: http://www.gutenberg.org/ebooks/68219
